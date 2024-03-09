@@ -3,7 +3,7 @@
 #include <cstdint>
 #include <iomanip>
 #include <random>
-#include "vectors_and_matrices/array_types.hpp"
+#include "array_types.hpp"
 
 #include "mpi.h"
 
